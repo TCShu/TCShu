@@ -35,7 +35,9 @@ What excites me most isn’t just writing code — it’s watching something gro
 
 ### Databases
 - SQL Server  
-- MySQL  
+- MySQL
+- PostgreSQL
+- Chroma
 
 ### Cloud & Infrastructure
 - Distributed Systems Fundamentals  
